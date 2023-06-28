@@ -1,5 +1,5 @@
 # WP4: publish_video_data_face_recognition
-This repository is intended to publish video data to DHT to invoke the [Privacy-Aware Face Recognition Analytic](https://github.com/sifis-home/flask_private_deepface)
+This repository is intended to publish image and video data to DHT to invoke the [Privacy-Aware Face Recognition Analytic](https://github.com/sifis-home/flask_private_deepface)
 
 Build the image using the following command:
 
